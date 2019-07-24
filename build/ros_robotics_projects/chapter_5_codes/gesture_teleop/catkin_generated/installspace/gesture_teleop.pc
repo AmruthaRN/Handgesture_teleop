@@ -1,0 +1,8 @@
+prefix=/home/amrutha/blink_ws/install
+
+Name: gesture_teleop
+Description: Description of gesture_teleop
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/amrutha/blink_ws/install/lib 
+Requires: 
